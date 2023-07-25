@@ -1,0 +1,6 @@
+drf_yasg
+djangorestframework
+django-cors-headers
+django-filter
+djangorestframework-simplejwt
+Pillow

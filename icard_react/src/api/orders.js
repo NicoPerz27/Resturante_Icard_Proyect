@@ -1,4 +1,4 @@
-import BaseComponent from "bootstrap/js/dist/base-component";
+//import BaseComponent from "bootstrap/js/dist/base-component";
 import { BASE_API, ORDER_STATUS } from "../utils/constants";
 
 export async function getOrdersByTableApi(idTable, status = "", ordering = "") {
